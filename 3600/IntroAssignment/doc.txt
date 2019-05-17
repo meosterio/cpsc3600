@@ -1,0 +1,17 @@
+
+
+self, key, value
+
+dictionary is a class
+
+alex = {"name":[], "age":[] } #[] create the empty list
+
+def __init__ ()
+
+class ResultContainer
+
+if __name__ == "__main__":
+
+class dict
+
+(alex["Age"]).append(100)
